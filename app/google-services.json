@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67293989929",
+    "project_id": "connecting-piet",
+    "storage_bucket": "connecting-piet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67293989929:android:56af398b803cd0e57ba038",
+        "android_client_info": {
+          "package_name": "com.android.connectingpiet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67293989929-oll6cvr2vo1bcfcehroff4pmqe92sn71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmK8YHmydQK29Zdm5Sm8KE3bLvwNWqIBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67293989929-oll6cvr2vo1bcfcehroff4pmqe92sn71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
